@@ -91,9 +91,10 @@ Code → Learn → Build → Improve → Repeat
 <div align="center">
 
 
-<img width="49%" 
-src="https://github-readme-stats.vercel.app/api?username=afiabakr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-alt="GitHub Stats"/>
+<img 
+src="https://github-readme-stats.vercel.app/api?username=AfiaBakr&show_icons=true"
+alt="GitHub Stats"
+/>
 
 
 

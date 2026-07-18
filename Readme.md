@@ -96,6 +96,7 @@ src="https://github-readme-stats.vercel.app/api?username=afiabakr&show_icons=tru
 alt="GitHub Stats"/>
 
 
+
 <img width="49%" 
 src="https://github-readme-streak-stats.herokuapp.com/?user=afiabakr&theme=tokyonight&hide_border=true" 
 alt="GitHub Streak"/>
@@ -164,7 +165,7 @@ alt="Contribution Graph"
 
 
 <img 
-src="https://raw.githubusercontent.com/afiabakr/afiabakr/output/github-contribution-grid-snake-dark.svg"
+src="https://raw.githubusercontent.com/afiabakr/afiabakr/gh-pages/github-contribution-grid-snake-dark.svg"
 alt="Snake Animation"
 />
 

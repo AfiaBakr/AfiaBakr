@@ -202,6 +202,7 @@ src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
 alt="Developer Quote"
 />
 </div>
+
 ---
 
 <div align="center">
@@ -209,7 +210,7 @@ alt="Developer Quote"
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=💡+Build+with+Curiosity;🤖+Create+with+AI;🚀+Keep+Learning+%7C+Keep+Building+%7C+Keep+Innovating"
 />
 
-----
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=fadeIn&color=0:0F172A,35:7C3AED,65:3B82F6,100:22D3EE"/>
 

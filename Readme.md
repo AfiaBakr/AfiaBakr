@@ -164,7 +164,7 @@ alt="Contribution Graph"
 
 
 <img 
-src="https://raw.githubusercontent.com/afiabakr/afiabakr/output/github-contribution-grid-snake-dark.svg"
+src="https://raw.githubusercontent.com/afiabakr/afiabakr/gh-pages/github-contribution-grid-snake-dark.svg"
 alt="Snake Animation"
 />
 

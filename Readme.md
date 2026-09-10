@@ -148,9 +148,12 @@ alt="Top Languages"/>
 <div align="center">
 
 
-<img 
-src="https://github.com/users/AfiaBakr/achievements/pair-extraordinaire?username=afiabakr&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7"
-alt="GitHub Trophy"/>
+<a href="https://github.com/AfiaBakr?tab=achievements" target="_blank" title="View my GitHub achievements">
+  <img 
+    src="https://github.com/users/AfiaBakr/achievements/pair-extraordinaire?username=afiabakr&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7"
+    alt="GitHub Trophy"
+  />
+</a>
 
 
 </div>

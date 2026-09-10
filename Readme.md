@@ -60,7 +60,25 @@ Goal:
 
 📄 Experience & Hackathon Work:
 
-<a href="https://hackathon-01-milestone-1-2.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Hackathon-View%20Projects-8A2BE2?style=for-the-badge&logo=github"/> </a>
+<a href="https://hackathon-01-milestone-1-2.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/GIAIC%20!st%20Priject-8A2BE2?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://hackathon-food-restaurent.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/GIAIC%202nd-Quater%20Project-00A86B?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://cv-builder-afia.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/SMIT%20Mid-trem-FF6B35?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://customer-support-ticket-afia-zx13.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/SMIT%20Moderen%20Web-Development%20Final-Project-4169E1?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://physical-ai-robotics-textbook-nine.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/GIAIC%20AI%20Spec-Driven%20Project-4169E1?style=for-the-badge&logo=github"/>
+</a>
 
 💬 Ask Me About
   - Frontend Development

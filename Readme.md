@@ -81,11 +81,12 @@ Goal:
 </a>
 
 💬 Ask Me About
-  - Frontend Development
+  - Full Stack Development
   - React
   - Next.js
   - TypeScript
   - Tailwind CSS
+  - RAG
   - AI Integration
   - Agentic AI
 

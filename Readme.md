@@ -149,7 +149,7 @@ alt="Top Languages"/>
 
 
 <img 
-src="https://github-profile-trophy.vercel.app/?username=afiabakr&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7"
+src="https://github.com/users/AfiaBakr/achievements/pair-extraordinaire?username=afiabakr&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7"
 alt="GitHub Trophy"/>
 
 

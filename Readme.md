@@ -73,7 +73,7 @@ Goal:
 </a>
 
 <a href="https://customer-support-ticket-afia-zx13.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/SMIT%20Moderen%20Web-Development%20Final-Project-4169E1?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/SMIT%20Modern%20Web-Development%20Final%20Project-4169E1?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://physical-ai-robotics-textbook-nine.vercel.app/" target="_blank">

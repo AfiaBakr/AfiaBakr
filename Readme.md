@@ -11,7 +11,7 @@
 </h1>
 
 <h3>
-  🚀 Full Stack Developer | 🤖 Agentic AI Learner | 💡 Building Modern Web Experiences
+  🚀 Full Stack Developer | 🤖 Agentic AI Learner | 💡 Building FDE
 </h3>
 
 <p>
@@ -61,7 +61,7 @@ Goal:
 📄 Experience & Hackathon Work:
 
 <a href="https://hackathon-01-milestone-1-2.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/GIAIC%20!st%20Priject-8A2BE2?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GIAIC%20!st%20Project-8A2BE2?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://hackathon-food-restaurent.vercel.app/" target="_blank">
